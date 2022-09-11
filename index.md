@@ -7,7 +7,7 @@
 [LINKS](https://rayhanrandi.github.io/os222/links.md/) ---
 [TIPS](https://rayhanrandi.github.io/os222/tips.md) ---
 [LOG](https://rayhanrandi.github.io/os222/TXT/mylog.txt) ---
-[TARBALL](SandBox/rayhanrandi.tar.xz) ---
+[TARBALL](https://os.vlsm.org/Log/rayhanrandi.tar.bz2.txt) ---
 [GITHUB](https://github.com/rayhanrandi)
 <br>
 <hr>
