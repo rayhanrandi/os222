@@ -1,14 +1,14 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By Rayhan Putra Randi</span>
 <br><br>
-[HOME]({{ site.baseurl }}/) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[HOME](https://rayhanrandi.github.io/os222) ---
+[LINKS](https://rayhanrandi.github.io/os222/LINKS/) ---
+[TIPS](https://rayhanrandi.github.io/os222/TIPS/) ---
+[LOG](https://rayhanrandi.github.io/os222/TXT/mylog.txt) ---
 [TARBALL](SandBox/rayhanrandi.tar.xz) ---
-[GITHUB]({{ site.githublink }})
+[GITHUB](https://github.com/rayhanrandi)
 <br>
 <hr>
 
