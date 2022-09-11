@@ -3,7 +3,7 @@
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By Rayhan Putra Randi</span>
 <br><br>
-[HOME](https://github.com/rayhanrandi/os222) ---
+[HOME](https://rayhanrandi.github.io/os222) ---
 [LINKS](https://rayhanrandi.github.io/os222/LINKS/) ---
 [TIPS](https://rayhanrandi.github.io/os222/TIPS/) ---
 [LOG](https://rayhanrandi.github.io/os222/TXT/mylog.txt) ---
