@@ -6,11 +6,11 @@
 [LINKS](https://rayhanrandi.github.io/os222/links.md/) ---
 [TIPS](https://rayhanrandi.github.io/os222/tips.md) ---
 [LOG](https://rayhanrandi.github.io/os222/TXT/mylog.txt) ---
-[TARBALL](SandBox/cbkadal.tar.xz) ---
+[TARBALL](SandBox/rayhanrandi.tar.xz) ---
 [GITHUB](https://github.com/rayhanrandi)
 <br>
 <hr>
-This is my Operating Systems 2022/2023 Repository and I am **Randi**
+This is my Operating Systems 2022/2023 Repository and I am **Randi**.
 <br><br>
 This is the way!
 <br>
