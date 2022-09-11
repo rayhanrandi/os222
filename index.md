@@ -4,8 +4,8 @@
 <span style="color:red; font-weight:bold; font-size:larger;">By Rayhan Putra Randi</span>
 <br><br>
 [HOME](https://github.com/rayhanrandi/os222) ---
-[LINKS](https://rayhanrandi.github.io/os222/links.md/) ---
-[TIPS](https://rayhanrandi.github.io/os222/tips.md) ---
+[LINKS](https://rayhanrandi.github.io/os222/LINKS/) ---
+[TIPS](https://rayhanrandi.github.io/os222/TIPS/) ---
 [LOG](https://rayhanrandi.github.io/os222/TXT/mylog.txt) ---
 [TARBALL](https://os.vlsm.org/Log/rayhanrandi.tar.bz2.txt) ---
 [GITHUB](https://github.com/rayhanrandi)
