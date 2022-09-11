@@ -3,9 +3,9 @@
 <span style="color:red; font-weight:bold; font-size:larger;">By Rayhan Putra Randi</span>
 <br><br>
 [HOME](https://github.com/rayhanrandi/os222) ---
-[LINKS](https://github.com/rayhanrandi/os222/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG](https://github.com/rayhanrandi/os222/TXT/mylog.txt) ---
+[LINKS](https://rayhanrandi.github.io/os222/links.md/) ---
+[TIPS](https://rayhanrandi.github.io/os222/tips.md) ---
+[LOG](https://rayhanrandi.github.io/os222/TXT/mylog.txt) ---
 [TARBALL](SandBox/cbkadal.tar.xz) ---
 [GITHUB](https://github.com/rayhanrandi)
 <br>
