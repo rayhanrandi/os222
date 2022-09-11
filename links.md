@@ -7,7 +7,7 @@ permalink: LINKS/
 [LINKS](https://rayhanrandi.github.io/os222/LINKS/) ---
 [TIPS](https://rayhanrandi.github.io/os222/TIPS/) ---
 [LOG](https://rayhanrandi.github.io/os222/TXT/mylog.txt) ---
-[TARBALL](SandBox/rayhanrandi.tar.xz) ---
+[TARBALL](https://os.vlsm.org/Log/rayhanrandi.tar.bz2.txt) ---
 [GITHUB](https://github.com/rayhanrandi)
 <br>
 <hr>
