@@ -1,16 +1,16 @@
 ---
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By Rayhan Putra Randi</span>
 <br><br>
-[HOME]({{ site.baseurl }}/) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
+[HOME](https://github.com/rayhanrandi/os222) ---
+[LINKS](https://github.com/rayhanrandi/os222/LINKS/) ---
 [TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[LOG](https://github.com/rayhanrandi/os222/TXT/mylog.txt) ---
 [TARBALL](SandBox/cbkadal.tar.xz) ---
-[GITHUB]({{ site.githublink }})
+[GITHUB](https://github.com/rayhanrandi)
 <br>
 <hr>
-This is {{ site.title }} and I am {{ site.author }}.
+This is my Operating Systems 2022/2023 Repository and I am **Randi**
 <br><br>
 This is the way!
 <br>
