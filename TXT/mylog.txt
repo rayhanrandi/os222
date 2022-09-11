@@ -12,3 +12,5 @@ ZCZC W01 120  L06 Class session
 ZCZC W01 120  L07 Class session
 ZCZC W01 15   L08 Quiz 2
 ZCZC W01 180  W01 Assignments (Installs, setups, etc.)
+ZCZC W01 180  W01 Assignments (Troubleshooting)
+ZCZC W01 120  W01 Assignments (Finishing)
