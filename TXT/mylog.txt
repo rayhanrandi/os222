@@ -15,3 +15,5 @@ ZCZC W01 180  L09 Assignments (Installs, setups, etc.)
 ZCZC W01 180  L10 Assignments (Troubleshooting)
 ZCZC W01 180  L11 Assignments (Finishing, Assignments #2, #3, and #4)
 ZCZC W01 90   L12 Creating index and links page for OS repository
+ZCZC W02 120  L13 Class session
+ZCZC W02 120  L13 Class session
