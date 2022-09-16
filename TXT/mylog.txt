@@ -20,6 +20,8 @@ ZCZC W02 120  L14 Class session
 ZCZC W02 15   L15 Quiz 3
 ZCZC W02 90   L16 Assignments (Links, Generating Keys, etc.)
 ZCZC W02 90   L17 Websurfing regarding git commands (remote push, pull)
-ZCZC W02 60   L18 Fixing remote fetch URL for os222 local directory
+ZCZC W02 15   L18 Fixing remote fetch URL for os222 local directory
+ZCZC W02 60   L19 Fixing fatal error while trying to push mypubkey (could not resolve github.com, consulted teaching assistants)
+
 
  
