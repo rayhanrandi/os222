@@ -5,25 +5,30 @@
 ZCZC W00 ??   L00 General, etc.
 ZCZC W00 30   L01 Created GHP/Repo
 ZCZC W00 120  L02 Class session
-ZCZC W00 96   L03 Class session
-ZCZC W00 30   L04 W00 Reading Assignments (Midterm Problems, Demos)
+ZCZC W00 96   L02 Class session
+ZCZC W00 30   L09 W00 Reading Assignments (Midterm Problems, Demos)
 ZCZC W00 10   L05 Quiz 1
-ZCZC W01 120  L06 Class session
-ZCZC W01 120  L07 Class session
-ZCZC W01 15   L08 Quiz 2
+ZCZC W01 120  L02 Class session
+ZCZC W01 120  L02 Class session
+ZCZC W01 15   L05 Quiz 2
 ZCZC W01 180  L09 Assignments (Installs, setups, etc.)
-ZCZC W01 180  L10 Assignments (Troubleshooting)
-ZCZC W01 180  L11 Assignments (Finishing, Assignments #2, #3, and #4)
-ZCZC W01 90   L12 Creating index and links page for OS repository
-ZCZC W02 120  L13 Class session
-ZCZC W02 120  L14 Class session
-ZCZC W02 15   L15 Quiz 3
-ZCZC W02 90   L16 Assignments (Links, Generating Keys, etc.)
-ZCZC W02 90   L17 Websurfing regarding git commands (remote push, pull)
-ZCZC W02 15   L18 Fixing remote fetch URL for os222 local directory
-ZCZC W02 60   L19 Fixing fatal error while trying to push mypubkey (could not resolve github.com, consulted teaching assistants)
-ZCZC W02 60   L20 Fixing branch related mistakes (main -> master)
-ZCZC W02 120  L21 Fixed local and remote inconsistencies
+ZCZC W01 180  L09 Assignments (Troubleshooting)
+ZCZC W01 180  L09 Assignments (Finishing, Assignments #2, #3, and #4)
+ZCZC W01 90   L04 Creating index and links page for OS repository
+ZCZC W02 120  L02 Class session
+ZCZC W02 120  L02 Class session
+ZCZC W02 15   L05 Quiz 3
+ZCZC W02 60   L09 Assignments (Links, Generating Keys, etc.)
+ZCZC W02 45   L06 Websurfing regarding git commands (remote push, pull)
+ZCZC W02 15   L03 Fixing remote fetch URL for os222 local directory
+ZCZC W02 60   L03 Fixing fatal error while trying to push mypubkey (could not resolve github.com, consulted teaching assistants)
+ZCZC W02 60   L03 Fixing branch related mistakes (main -> master)
+ZCZC W02 90   L03 Fixed local and remote inconsistencies
+ZCZC W02 90   L09 Assignments (Reviewed 10 links, scripts, and finishing)
+ZCZC W02 15   L41 Fixed mylogs.txt log codes
+ZCZC W02 45   L64 Walked friend through W02 Assignments (Assignment #4, #5, #6)
+
+
 
 
 
