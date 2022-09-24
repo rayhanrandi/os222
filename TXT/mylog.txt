@@ -29,6 +29,21 @@ ZCZC W02 15   L41 Fixed mylogs.txt log codes
 ZCZC W02 45   L64 Walked friend through W02 Assignments (Assignment #4, #5, #6)
 ZCZC W02 120  L09 Fixing username clashes between github and virtual guest, redoing W02 Assignments
 ZCZC W02 10   L09 Added Week02 links
+ZCZC W03 120  L02 Class session
+ZCZC W03 120  L02 Class session
+ZCZC W03 45   L05 Websurfing regarding quiz material
+ZCZC W03 15   L05 Doing W03 Quiz02
+ZCZC W03 15   L05 Doing W03 Quiz01
+ZCZC W03 60   L11 Assignment 1 (Reading from given source, reviewing past midterm problems)
+ZCZC W03 90   L12 Assignment 2 (Adding and creating an extra virtual disk)
+ZCZC W03 30   L21 Troubleshooting Assignment 2 problems
+ZCZC W03 60   L13 Assignment 3 (Finishing)
+ZCZC W03 30   L09 Editing links.md
+ZCZC W03 30   L43 Reviewing and ranking other links on myrank.txt
+ZCZC W03 30   L05 Doing PopQuiz (Encrypting .txt file)
+ZCZC W03 10   L41 Organizing logs
+ZCZC W03 15   L03 Doing the git mantras
+
 
 
 

@@ -14,14 +14,30 @@ permalink: LINKS/
 
 # LINKS
 
+### WEEK01
+
 1. [LinuxHint](https://linuxhint.com/)<br>
 Great source for exploring Linux commands, what they do, and the Linux operating system in general.
 
 2. [nixCraft > HowTo > Linux](https://www.cyberciti.biz/faq/category/linux/)<br>
 Another great source of information and tutorial on Linux commands. 
 
-3. [Learn the Basics of Git in Under 10 Minutes](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)<br>
-Helps me get started on the basics and understanding of git for assignment purposes.
+### WEEK02
+
+1. [About Debian](https://www.debian.org/intro/about)<br>
+A pretty detailed information about Debian to get you started on various topics regarding the Debian operating system.
+
+2. [Learn the Basics of Git in Under 10 Minutes](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)<br>
+Helped me get started on the basics and understanding of git for assignment purposes.
+
+### WEEK03
+
+1. [What Is a File System?](https://www.freecodecamp.org/news/file-systems-architecture-explained/)<br>
+An introduction to this week's material that is file systems. Pretty good explanation and visualization to help you get a better understanding about file systems, examples included.
+
+2. [FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
+A good mine of information on Filesystem in USErspace (FUSE), a software interface for Unix and Unix-like computer operating systems that lets non-privileged users create their own file systems without editing kernel code.
+
 
 <br>
 <hr>
