@@ -38,6 +38,14 @@ An introduction to this week's material that is file systems. Pretty good explan
 2. [FUSE](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
 A good mine of information on Filesystem in USErspace (FUSE), a software interface for Unix and Unix-like computer operating systems that lets non-privileged users create their own file systems without editing kernel code.
 
+### WEEK04
+
+1. [Difference Between Logical and Physical Address in Operating System](https://techdifferences.com/difference-between-logical-and-physical-address.html)
+A helpful source I found while doing some GSGS for quiz purposes regarding this week's material
+
+2. ["printf" in C](https://legacy.cplusplus.com/reference/cstdio/printf/)
+In depth explanation of the "printf" command in C/C++ that I also used as reference for this week's quiz. The website itself is pretty informative for people getting started on C/C++.
+
 
 <br>
 <hr>

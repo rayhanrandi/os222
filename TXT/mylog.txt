@@ -8,15 +8,15 @@ ZCZC W00 120  L02 Class session
 ZCZC W00 96   L02 Class session
 ZCZC W00 30   L09 W00 Reading Assignments (Midterm Problems, Demos)
 ZCZC W00 10   L05 Quiz 1
-ZCZC W01 120  L02 Class session
-ZCZC W01 120  L02 Class session
+ZCZC W01 120  L02 Class session (Online)
+ZCZC W01 120  L02 Class session (Online)
 ZCZC W01 15   L05 Quiz 2
 ZCZC W01 180  L09 Assignments (Installs, setups, etc.)
 ZCZC W01 180  L09 Assignments (Troubleshooting)
 ZCZC W01 180  L09 Assignments (Finishing, Assignments #2, #3, and #4)
 ZCZC W01 90   L04 Creating index and links page for OS repository
-ZCZC W02 120  L02 Class session
-ZCZC W02 120  L02 Class session
+ZCZC W02 120  L02 Class session (Online)
+ZCZC W02 120  L02 Class session (Online)
 ZCZC W02 15   L05 Quiz 3
 ZCZC W02 60   L09 Assignments (Links, Generating Keys, etc.)
 ZCZC W02 45   L06 Websurfing regarding git commands (remote push, pull)
@@ -29,8 +29,8 @@ ZCZC W02 15   L41 Fixed mylogs.txt log codes
 ZCZC W02 45   L64 Walked friend through W02 Assignments (Assignment #4, #5, #6)
 ZCZC W02 120  L09 Fixing username clashes between github and virtual guest, redoing W02 Assignments
 ZCZC W02 10   L09 Added Week02 links
-ZCZC W03 120  L02 Class session
-ZCZC W03 120  L02 Class session
+ZCZC W03 120  L02 Class session (Online)
+ZCZC W03 120  L02 Class session (Offline)
 ZCZC W03 45   L05 Websurfing regarding quiz material
 ZCZC W03 15   L05 Doing W03 Quiz02
 ZCZC W03 15   L05 Doing W03 Quiz01
@@ -43,6 +43,23 @@ ZCZC W03 30   L43 Reviewing and ranking other links on myrank.txt
 ZCZC W03 30   L05 Doing PopQuiz (Encrypting .txt file)
 ZCZC W03 10   L41 Organizing logs
 ZCZC W03 15   L03 Doing the git mantras
+ZCZC W04 120  L02 Class session (Online)
+ZCZC W04 120  L02 Class session (Offline)
+ZCZC W04 60   L06 Websurfing: printing in C/C++ for quiz purposes
+ZCZC W04 10   L05 Doing W04 Quiz02
+ZCZC W04 20   L06 Reading quiz material sources
+ZCZC W04 10   L05 Doing W04 Quiz01
+ZCZC W04 45   L09 Doing W04 Assignments
+ZCZC W04 15   L43 Ranking gh's for myrank.txt
+ZCZC W04 60   L04 Editing and adding links for links.md
+ZCZC W04 10   L62 Backing up Virtual Debian Guest
+ZCZC W04 180  L86 Reorganizing room after house renovations
+ZCZC W04 60   L73 Playing chess against a friend, watching friend play chess
+ZCZC W04 30   L41 Organizing Week04 logs
+ZCZC W04 15   L03 Doing the git mantras
+
+
+
 
 
 
