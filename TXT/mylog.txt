@@ -57,6 +57,21 @@ ZCZC W04 180  L86 Reorganizing room after house renovations
 ZCZC W04 60   L73 Playing chess against a friend, watching friend play chess
 ZCZC W04 30   L41 Organizing Week04 logs
 ZCZC W04 15   L03 Doing the git mantras
+ZCZC W05 120  L02 Class session (Online)
+ZCZC W05 120  L02 Class session (Offline)
+ZCZC W05 90   L06 Websurfing for this week's quiz material regarding virtual memory
+ZCZC W05 15   L05 Doing W04 Quiz02
+ZCZC W05 15   L05 Doing W04 Quiz01
+ZCZC W05 30   L11 Doing Assignment #1: Reading from given sources
+ZCZC W05 45   L12 Doing Assignment #2: Finding lowest possible base memory for virtual box
+ZCZC W05 20   L13 Doing Assignment #3: Running and downloading scripts
+ZCZC W05 60   L14 Doing Assignment #4: Modifying C program mymemory.c rearranging address display
+ZCZC W05 20   L43 Ranking gh's for myrank.txt
+ZCZC W05 45   L04 Editing and adding links for links.md
+ZCZC W05 15   L62 Backed up virtual guest
+ZCZC W05 30   L41 Organizing week05 logs
+ZCZC W05 10   L15 Doing Assignment #5: Finishing by running myscript for Week05
+ZCZC W05 10   L03 Doing the git mantras
 
 
 

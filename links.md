@@ -46,6 +46,17 @@ A helpful source I found while doing some GSGS for quiz purposes regarding this 
 2. ["printf" in C](https://legacy.cplusplus.com/reference/cstdio/printf/)<br>
 In depth explanation of the "printf" command in C/C++ that I also used as reference for this week's quiz. The website itself is pretty informative for people getting started on C/C++.
 
+### WEEK05
+
+1. [Virtual Memory in OS: What is, Demand Paging, Advantages](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)<br>
+This link gave me a basic overview on this week's material that is virtual memory, from the definition, it's inner workings, plus minuses, and also much more. Was a pretty big help for this week's quiz questions.
+ 
+2. [Page Replacement Algorithms in Operating Systems](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)<br>
+Algorithms on operating systems page replacement with detailed explanation, examples, great visualization, easy to understand, and also helped me with this week's quiz questions.
+
+3. [Memory Management in Operating Systems](https://www.geeksforgeeks.org/memory-management-in-operating-system/#:~:text=The%20task%20of%20subdividing%20the,achieve%20efficient%20utilization%20of%20memory.)<br>
+Explanation, types, and examples of how memory is managed in operating systems, a little bit in-depth regarding this week's material but still is a great read for people interested in learning more about operating systems' memories.
+
 
 <br>
 <hr>
