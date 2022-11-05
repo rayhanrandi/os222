@@ -57,6 +57,24 @@ Algorithms on operating systems page replacement with detailed explanation, exam
 3. [Memory Management in Operating Systems](https://www.geeksforgeeks.org/memory-management-in-operating-system/#:~:text=The%20task%20of%20subdividing%20the,achieve%20efficient%20utilization%20of%20memory.)<br>
 Explanation, types, and examples of how memory is managed in operating systems, a little bit in-depth regarding this week's material but still is a great read for people interested in learning more about operating systems' memories.
 
+### WEEK06
+
+1. [Concurrency in Operating Systems](https://www.computer.org/csdl/magazine/co/1976/10/01647182/13rRUwwslyQ)<br>
+A pdf article/magazine that touches on how computing systems are becoming larger and more complex, and discussing of ways to safely share them without restricting use to a single user or program. Overall a great read regarding the base for this week's material. 
+
+2. [Concepts: Concurrency](https://sceweb.uhcl.edu/helm/RationalUnifiedProcess/process/workflow/ana_desi/co_cncry.htm)<br>
+An alternative to the above source to deep on the concept of concurrency, but without the need to download the article. Explanation is also detailed with examples and figures to visualize what is being processed in terms of concurrency in operating systems.
+
+3. [Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
+Another article going in depth on how concurrency is applied through use of multiple threads executing simultaneously. Comes with a set of illustrations that supplements the already detailed explanations.
+
+4. [C Memory Address](https://www.w3schools.com/c/c_memory_address.php)<br>
+Related to this week's quiz, this article teaches you the basics and syntax regarding adresses in the C language.
+
+5. [C - Pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)<br>
+Also related to this week's quiz, goes over the topic regarding pointers, what pointers are in C, how to use them, and also it's concepts and descriptions.
+
+
 
 <br>
 <hr>

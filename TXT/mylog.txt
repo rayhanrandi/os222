@@ -72,7 +72,21 @@ ZCZC W05 15   L62 Backed up virtual guest
 ZCZC W05 30   L41 Organizing week05 logs
 ZCZC W05 10   L15 Doing Assignment #5: Finishing by running myscript for Week05
 ZCZC W05 10   L03 Doing the git mantras
-
+ZCZC W06 90   L06 Websurfing for quiz material
+ZCZC W06 15   L05 Doing W04 Quiz02
+ZCZC W06 15   L05 Doing W04 Quiz01
+ZCZC W06 15   L62 Backed up virtual guest
+ZCZC W06 30   L11 Doing Assignment #1: updating kernel
+ZCZC W06 10   L12 Doing Assignment #2: downloading scripts
+ZCZC W06 45   L13 Doing Assignment #3: comparing fork programs
+ZCZC W06 45   L43 Ranking GH links
+ZCZC W06 60   L04 Updating links.md with links relevant to this week's material
+ZCZC W06 180  L70 Studying AVL Trees for data structure and algorithms course
+ZCZC W06 60   L73 Playing chess online
+ZCZC W06 120  L84 Nap after studying for data structure and algorithms lab
+ZCZC W06 15   L09 Re-checking this week's assignments
+ZCZC W06 45   L41 Organizing week06 logs
+ZCZC W06 10   L03 Doing the git mantras
 
 
 
