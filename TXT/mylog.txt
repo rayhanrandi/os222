@@ -2,7 +2,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
-ZCZC W00 ??   L00 General, etc.
+ZCZC W00 30   L00 General, etc.
 ZCZC W00 30   L01 Created GHP/Repo
 ZCZC W00 120  L02 Class session
 ZCZC W00 96   L02 Class session
@@ -30,7 +30,7 @@ ZCZC W02 45   L64 Walked friend through W02 Assignments (Assignment #4, #5, #6)
 ZCZC W02 120  L09 Fixing username clashes between github and virtual guest, redoing W02 Assignments
 ZCZC W02 10   L09 Added Week02 links
 ZCZC W03 120  L02 Class session (Online)
-ZCZC W03 120  L02 Class session (Offline)
+ZCZC W03 120  L00 Class session (Offline)
 ZCZC W03 45   L05 Websurfing regarding quiz material
 ZCZC W03 15   L05 Doing W03 Quiz02
 ZCZC W03 15   L05 Doing W03 Quiz01
@@ -44,7 +44,7 @@ ZCZC W03 30   L05 Doing PopQuiz (Encrypting .txt file)
 ZCZC W03 10   L41 Organizing logs
 ZCZC W03 15   L03 Doing the git mantras
 ZCZC W04 120  L02 Class session (Online)
-ZCZC W04 120  L02 Class session (Offline)
+ZCZC W04 120  L00 Class session (Offline)
 ZCZC W04 60   L06 Websurfing: printing in C/C++ for quiz purposes
 ZCZC W04 10   L05 Doing W04 Quiz02
 ZCZC W04 20   L06 Reading quiz material sources
@@ -58,7 +58,7 @@ ZCZC W04 60   L73 Playing chess against a friend, watching friend play chess
 ZCZC W04 30   L41 Organizing Week04 logs
 ZCZC W04 15   L03 Doing the git mantras
 ZCZC W05 120  L02 Class session (Online)
-ZCZC W05 120  L02 Class session (Offline)
+ZCZC W05 120  L00 Class session (Offline)
 ZCZC W05 90   L06 Websurfing for this week's quiz material regarding virtual memory
 ZCZC W05 15   L05 Doing W04 Quiz02
 ZCZC W05 15   L05 Doing W04 Quiz01
@@ -87,7 +87,24 @@ ZCZC W06 120  L84 Nap after studying for data structure and algorithms lab
 ZCZC W06 15   L09 Re-checking this week's assignments
 ZCZC W06 45   L41 Organizing week06 logs
 ZCZC W06 10   L03 Doing the git mantras
-
+ZCZC W07 120  L02 Class session (Online)
+ZCZC W07 120  L00 Class session (Offline)
+ZCZC W07 15   L62 Backing up virtual guest
+ZCZC W07 30   L11 Doing Assignment #1: Running this week's Demos
+ZCZC W07 10   L12 Doing Assignment #2: Downloading and running scripts
+ZCZC W07 45   L13 Doing Assignment #3: Extract, copy, and running this week's required files
+ZCZC W07 20   L05 Doing W07 PopQuiz1
+ZCZC W07 90   L05 Doing W07 PopQuiz2
+ZCZC W07 60   L06 Websurfing this week's quiz topic regarding page number and offsets
+ZCZC W07 15   L05 Doing W07 Quiz02
+ZCZC W07 15   L05 Doing W07 Quiz01
+ZCZC W07 30   L43 Ranking GH's for myrank.txt
+ZCZC W07 60   L04 Adding and editing links for links.md
+ZCZC W07 210  L70 Speedrunning Linear Algebra homework (assignment paper)
+ZCZC W07 240  L98 Visited printing vendor to order ID cards for COMPFEST14's main event
+ZCZC W07 30   L41 Organizing this week's logs
+ZCZC W05 10   L14 Doing Assignment #4: Finishing by running myscript for Week07.
+ZCZC W05 10   L03 Doing the git mantras
 
 
 

@@ -74,6 +74,22 @@ Related to this week's quiz, this article teaches you the basics and syntax rega
 5. [C - Pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)<br>
 Also related to this week's quiz, goes over the topic regarding pointers, what pointers are in C, how to use them, and also it's concepts and descriptions.
 
+### WEEK07
+
+1. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+A brief introduction into this week's material that goes over Synchronization's definitions, race condition, problems, and solutions.
+
+2. [Deadlock in Operating System](https://www.scaler.com/topics/operating-system/deadlock-in-os/)<br>
+Also a brief intro into this week's material regarding Deadlocks, broken down into sections for easier understanding.
+
+3. [Page Number and Offset](https://stackoverflow.com/questions/15628671/page-number-and-offset)<br>
+This forum helped me alot doing this week's quiz, explanations given are detailed and complete with examples and visualizations.
+
+4. [19 Common SSH Commands in Linux With Examples](https://phoenixnap.com/kb/linux-ssh-commands)<br>
+An article related to this week's assignment regarding SSH, with short, concise explanations and also complete with examples of each and every commonly used command's uses.
+
+5. [Encrypting and Decrypting Files in Linux](https://www.baeldung.com/linux/encrypt-decrypt-files)<br>
+Goes over how to encrypt and decrypt files in Linux, while also explaining types of encryption/decryption, keys, and basics for each topic.
 
 
 <br>
