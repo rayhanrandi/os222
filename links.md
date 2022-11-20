@@ -91,6 +91,21 @@ An article related to this week's assignment regarding SSH, with short, concise 
 5. [Encrypting and Decrypting Files in Linux](https://www.baeldung.com/linux/encrypt-decrypt-files)<br>
 Goes over how to encrypt and decrypt files in Linux, while also explaining types of encryption/decryption, keys, and basics for each topic.
 
+### WEEK08
+
+1. [Scheduling in Operating System](https://binaryterms.com/scheduling-in-operating-system.html#:~:text=Scheduling%20in%20operating%20system%20is,some%20or%20the%20other%20process.)<br>
+A neat source of information regarding this week's material in Scheduling. Covers the definition, why scheduling is needed, types, criterias, and algorithms in scheduling.
+
+2. [LFS Frequently Asked Questions](https://www.linuxfromscratch.org/lfs/faq.html)<br>
+This helpful FAQ page from the LFS website was used as reference when doing this week's assignment from chapter 1-5.
+
+3. [getppid() and getpid() in Linux](https://www.geeksforgeeks.org/getppid-getpid-linux/)<br>
+Brief explanation and examples regarding the getppid() and getpid() functions which appeared in this week's quiz.
+
+4. [6: Compiling a Cross Toolchain - How to build LFS 11.2](https://www.youtube.com/watch?v=0EwMnskxIZM&ab_channel=Kernotex)<br>
+This part of the LFS playlist is really helpful in doing chapter 5 as the explanation is more detailed and the steps is clearer which you can follow easily as the video does.
+
+
 
 <br>
 <hr>

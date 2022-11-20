@@ -103,8 +103,26 @@ ZCZC W07 60   L04 Adding and editing links for links.md
 ZCZC W07 210  L70 Speedrunning Linear Algebra homework (assignment paper)
 ZCZC W07 240  L98 Visited printing vendor to order ID cards for COMPFEST14's main event
 ZCZC W07 30   L41 Organizing this week's logs
-ZCZC W05 10   L14 Doing Assignment #4: Finishing by running myscript for Week07.
-ZCZC W05 10   L03 Doing the git mantras
+ZCZC W07 10   L14 Doing Assignment #4: Finishing by running myscript for Week07.
+ZCZC W07 10   L03 Doing the git mantras
+ZCZC W08 120  L02 Class session (Online)
+ZCZC W08 120  L00 Class session (Offline)
+ZCZC W08 15   L62 Backing up virtual guest
+ZCZC W08 30   L11 Doing Assignment #1: Running this week's Demos
+ZCZC W08 10   L12 Doing Assignment #2: Downloading and running scripts
+ZCZC W08 60   L06 Websurfing this week's quiz topic regarding getpid(), getppid(), and Sleep() functions
+ZCZC W08 15   L05 Doing W08 Quiz02
+ZCZC W08 15   L05 Doing W08 Quiz01
+ZCZC W08 300  L13 Doing Assignment #3: Linux From Scratch
+ZCZC W08 30   L05 Doing W08 PopQuiz3
+ZCZC W08 30   L05 Doing W08 PopQuiz4
+ZCZC W08 30   L43 Ranking GH's for myrank.txt
+ZCZC W08 60   L04 Adding and editing links for links.md
+ZCZC W08 15   L05 Doing W08 PopQuiz1
+ZCZC W08 15   L05 Doing W08 PopQuiz2
+ZCZC W08 30   L41 Organizing this week's logs
+ZCZC W08 10   L14 Doing Assignment #4: Finishing by running myscript for Week08.
+ZCZC W08 10   L03 Doing the git mantras
 
 
 
