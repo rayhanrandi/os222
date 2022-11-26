@@ -27,3 +27,7 @@ ZCZC W07 arkanalexei
 ZCZC W08 christophernw
 ZCZC W08 cinvetsin
 ZCZC W08 bryan273
+ == Week 09 ==
+ZCZC W09 dapulmh
+ZCZC W09 danenherdi
+ZCZC W09 daffafaizan

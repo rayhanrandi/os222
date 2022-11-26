@@ -105,6 +105,22 @@ Brief explanation and examples regarding the getppid() and getpid() functions wh
 4. [6: Compiling a Cross Toolchain - How to build LFS 11.2](https://www.youtube.com/watch?v=0EwMnskxIZM&ab_channel=Kernotex)<br>
 This part of the LFS playlist is really helpful in doing chapter 5 as the explanation is more detailed and the steps is clearer which you can follow easily as the video does.
 
+### WEEK09
+
+1. [Linux – Systemd and its Components](https://www.geeksforgeeks.org/linux-systemd-and-its-components/#:~:text=Systemd%20is%20a%20system%20that,the%20Linux%20start%2Dup%20process.)<br>
+Overview on one of this week's material that is Systemd, what it is, why we use it, and how to use it all in one page.
+
+2. [What is GRUB in Linux?](https://www.tutorialspoint.com/what-is-grub-in-linux)<br>
+This article covers important points on GRUB, Linux's default bootloader for many distributions. Related to this week's material regarding bootloaders.
+
+3. [RAID (redundant array of independent disks)](https://www.techtarget.com/searchstorage/definition/RAID)<br>
+A technology to increase performance and reliability of data storage, this article covers all about RAID, its types, and much more. Helped me understand the topics discussed in class.
+
+4. [Disk Partitioning in Linux](https://www.geeksforgeeks.org/disk-partitioning-in-linux/)<br>
+Also regarding this week's material that is storage, this article helped me understand partitioning, a topic that popped up in this week's class and quiz.
+
+5. [Problems with compiling the M4 packet for my LFS system (LFS 10.1)](https://www.linuxquestions.org/questions/linux-newbie-8/problems-with-compiling-the-m4-packet-for-my-lfs-system-lfs-10-1-a-4175699442/)<br>
+This forum page helped me alot to determine where I went wrong while doing LFS. Although a little outdated, the solutions posted were helpful to me in resolving my M4 compilation error.
 
 
 <br>

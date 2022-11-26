@@ -121,8 +121,25 @@ ZCZC W08 60   L04 Adding and editing links for links.md
 ZCZC W08 15   L05 Doing W08 PopQuiz1
 ZCZC W08 15   L05 Doing W08 PopQuiz2
 ZCZC W08 30   L41 Organizing this week's logs
-ZCZC W08 10   L14 Doing Assignment #4: Finishing by running myscript for Week08.
+ZCZC W08 10   L14 Doing Assignment #4: Finishing by running myscript for Week09.
 ZCZC W08 10   L03 Doing the git mantras
+ZCZC W09 120  L02 Class session (Online)
+ZCZC W09 120  L00 Class session (Offline)
+ZCZC W09 15   L62 Backing up virtual guest
+ZCZC W09 10   L11 Doing Assignment #1: Updating kernels
+ZCZC W09 10   L12 Doing Assignment #2: Downloading and running scripts
+ZCZC W09 60   L06 Websurfing this week's quiz topic regarding storage, bootloaders, firmware, and Systemd.
+ZCZC W09 15   L05 Doing W09 Quiz02
+ZCZC W09 15   L05 Doing W09 Quiz01
+ZCZC W09 240  L13 Doing Assignment #3: Linux From Scratch Ch. 6-7
+ZCZC W09 30   L05 Doing W09 PopQuiz1
+ZCZC W09 30   L43 Ranking GH's for myrank.txt
+ZCZC W09 60   L04 Adding and editing links for links.md
+ZCZC W09 30   L41 Organizing this week's logs
+ZCZC W09 10   L14 Doing Assignment #4: Finishing by running myscript for Week08.
+ZCZC W09 10   L03 Doing the git mantras
+ZCZC W09 120  L88 Playing football with friends.
+
 
 
 
